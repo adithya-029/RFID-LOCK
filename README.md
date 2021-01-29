@@ -11,15 +11,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# CODE
+[check it out here](https://github.com/adithya-029/RFID-LOCK/blob/main/code)
+## discription
+[RFID] (https://github.com/adithya-029/RFID-LOCK/blob/main/DESCRIPTION/RFID%20LOCKING%20SYSTEM%20(1).docx)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
